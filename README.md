@@ -4,7 +4,7 @@
 
 I am a beginner developer from Spain, Vigo. I have studied Multiplatform Application Design and continue with my academic training.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiJFC&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiJFC&theme=algolia )
 
 
 <!--
