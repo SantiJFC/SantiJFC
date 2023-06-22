@@ -1,5 +1,10 @@
 ### Hi, welcome to my profile. I'm Santiago, multiplatform application programmer 👋
 ![Imagen-portada-cortada](https://github.com/SantiJFC/SantiJFC/assets/73559639/f7698eb1-44ac-4422-90a9-1f1ad6f9ecc0)
+
+
+I am a beginner developer from Spain, Vigo. I have studied Multiplatform Application Design and continue with my academic training.
+
+
 <!--
 **SantiJFC/SantiJFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
