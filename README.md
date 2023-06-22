@@ -1,5 +1,5 @@
 ### Hi, welcome to my profile. I'm Santiago, multiplatform application programmer 👋
-![](https://i.pinimg.com/originals/a2/70/d2/a270d270d5ca184422cf980475b99e24.gif)
+![Imagen-portada-cortada](https://github.com/SantiJFC/SantiJFC/assets/73559639/f7698eb1-44ac-4422-90a9-1f1ad6f9ecc0)
 <!--
 **SantiJFC/SantiJFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
