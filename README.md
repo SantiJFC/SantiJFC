@@ -4,7 +4,23 @@
 
 I am a beginner developer from Spain, Vigo. I have studied Multiplatform Application Design and continue with my academic training.
 
+
+```js
+const SantiJFC = {
+  pronouns: "he" | "him",
+  code: [JavaScript, HTML, CSS, Python, Java, SQL, Kotlin],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Docker], 
+}
+```
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiJFC&theme=algolia )
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiJFC&theme=algolia&layout=compact)
+
+
+
+
 
 
 <!--
